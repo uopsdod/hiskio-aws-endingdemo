@@ -44,7 +44,14 @@ class UIComponent extends Component {
 	render() {
 		return (
 			<div>
-				<h1>Infra as Code - from Docker to AWS</h1>
+				<h1>AWS Review Demo - Frontend</h1>
+				<div>
+					<label>
+					cover photo (from S3):
+					<br/>
+					<img src="https://XXXXXX"></img>
+					</label>
+				</div>
 				
 				<div>
 					<label>
